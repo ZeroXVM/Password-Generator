@@ -6,6 +6,7 @@ Well it depends. Do you have an account for a paid service? Do you want it to be
 ### For Linux users
 Just type `apt install xclip` in the terminal. If you're not using apt, replace it with what package manager you're using. Then you're done, if you haven't downloaded the source but downloaded the prebuilt app, type `./root` to run it.
 ### For Windows users
+Do not install the prebuilt app, it's only there for Linux users. Instead, install the source.
 Currently, since this is a Linux based application, you should install [Cygwin](https://www.cygwin.com). Afterwards, you should just install the G++ package so that you can actually compile this to run it.
 You also require XCLIP. It's a library for copying and pasting to the clipboard.
 Once you have managed to install those two libraries, add Cygwin's bin directory to PATH.
