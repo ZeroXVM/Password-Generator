@@ -14,4 +14,3 @@ Now you are able to actually compile the program. Go to the directory where you 
 Type `g++ passgen.cpp -o passgen` and then watch it work it's magic. Now you're able to run it. Congratulations, and enjoy a safe trip on the internet.
 ## Usage
 It'll ask for the length of the password, you put in a number, it generates and then copies to clipboard. Make sure you save the password somewhere though.
-![Proof of usage.](readmeimg/PGProof.png)
