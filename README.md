@@ -4,7 +4,7 @@ For all your anxious "What if?" needs. As long as you're smart with this and don
 Well it depends. Do you have an account for a paid service? Do you want it to be hacked? Or perhaps you have one for a popular game, and you don't want it getting stolen? That's why this is here. I have used this for years, all my accounts are perfectly safe due to this tool. However, if there's a choice, you should also **enable 2FA if possible**.
 ## Installation
 ### For Linux users
-Just type `apt install xclip` in the terminal. If you're not using apt, replace it with what package manager you're using. Then you're done, if you haven't downloaded the source but downloaded the prebuilt app, type `./passgen` to run it.
+Just type `apt install xclip` in the terminal. If you're not using apt, replace it with what package manager you're using, then you're done. If you haven't downloaded the source but downloaded the prebuilt app, type `./passgen` to run it.
 ### For Windows users
 Do not install the prebuilt app, it's only there for Linux users. Instead, install the source.
 Currently, since this is a Linux based application, you should install [Cygwin](https://www.cygwin.com). Afterwards, you should just install the G++ package so that you can actually compile this to run it.
